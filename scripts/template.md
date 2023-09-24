@@ -1,7 +1,8 @@
 ---
+sitemap: false 
 id: MS-Template
 ---
-
+<!--REMOVE SITEMAP FALSE -->
 # MACHS Scripts | Template
 
 This here is a template for the scripts, and how a page should look.  
