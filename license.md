@@ -2,7 +2,9 @@
 id: MS-License
 ---
 
-# GNU AFFERO GENERAL PUBLIC LICENSE
+# LICENSE
+
+## GNU AFFERO GENERAL PUBLIC LICENSE
 
 ## Version 3, 19 November 2007
 
