@@ -36,3 +36,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem "github-pages", "~> 215", group: :jekyll_plugins
+gem 'jekyll-sitemap'
