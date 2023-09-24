@@ -1,3 +1,17 @@
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
+
+sidebar: 
+  - MS-Home
+  - label: Reporting
+    children:
+      - MS-Reporting-LogGroupMemberships
+  - label: Our Server
+
+
+
+
+
+
+
 version: v0.5.0
