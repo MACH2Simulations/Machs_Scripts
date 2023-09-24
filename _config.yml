@@ -10,7 +10,9 @@ sidebar:
 
 
 
-
+url: "https://scripts.m2s.uk/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 
 
 
