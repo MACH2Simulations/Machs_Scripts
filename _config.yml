@@ -6,7 +6,9 @@ sidebar:
   - label: Reporting
     children:
       - MS-Reporting-LogGroupMemberships
-  - label: Our Server
+  - label: Misc
+
+  - LICENSE
 
 
 

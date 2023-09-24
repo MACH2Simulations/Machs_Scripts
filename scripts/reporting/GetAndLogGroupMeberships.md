@@ -2,7 +2,7 @@
 id: MS-Reporting-LogGroupMemberships
 ---
 
-# Log AD Group Memberships of an OU
+# Log AD Group Memberships
 
 This script will create a text file containing group memberships, for each member of the OU Specified in the search base.  
 This script will work on  
