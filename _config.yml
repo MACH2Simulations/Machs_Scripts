@@ -3,9 +3,13 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar: 
   - MS-Home
+  - MS-Tools-OneLiners
   - label: Reporting
     children:
       - MS-Reporting-LogGroupMemberships
+  - label: Tools
+    children:
+      - MS-Tools-ColourPing    
   - MS-License
 
 
