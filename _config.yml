@@ -10,8 +10,8 @@ sidebar:
       - MS-Reporting-LogGroupMemberships
   - label: Tools
     children:
-      - MS-Tools-ColourPing   
       - MS-Tools-MassMessage
+      - MS-Tools-ColourPing   
   - MS-License
 
 
