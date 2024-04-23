@@ -5,9 +5,8 @@ id: MS-Home
 
 # MACHS Scripts
 
-## Archived  
+<meta http-equiv="refresh" content="0; url=https://docs.m2s.bz/" />
 
-This site is now Archived and can be found at my new [docs](https://docs.m2s.bz/) site.
+Additionally for older browsers if you add a quick link in case it doesn't refresh correctly:
 
-Scripts once found here, and findable on github remain under GNU AFFERO GENERAL PUBLIC LICENSE
-
+<p><a href="https://docs.m2s.bz/">Redirect</a></p>
